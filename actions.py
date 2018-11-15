@@ -60,3 +60,4 @@ def shop():
 
 def thank_you():
     print("Thank you for shopping with us at %s" % site_name)
+    
